@@ -3,3 +3,4 @@
 */install/*
 */log/*
 *.pyc*
+*.env.sh
