@@ -1,0 +1,3 @@
+workspace:
+  ros_version: foxy
+  python_version: 3.9.0
