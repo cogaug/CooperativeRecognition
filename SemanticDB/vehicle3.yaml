@@ -1,0 +1,17 @@
+Vehicle: 
+  Symbol:
+    name: grandtourer
+    id: 3
+    type: car
+  Explicit:
+    size: [2.306,1.121,0.834] #xyz
+    color: grey
+    pose: [-1,-1,-1] #xyth
+    velocity: [-1,-1]
+    CoordinateFrame: map
+  Implicit:
+    isInsideof: None
+    isKeyObject: yes
+    isMovable: yes
+    purpose: ego   # ego, occulsion, cut-in....
+

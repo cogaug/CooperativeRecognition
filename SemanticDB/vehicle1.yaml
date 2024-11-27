@@ -1,0 +1,18 @@
+Vehicle: 
+  Symbol:
+    name: mkz_2020
+    id: 1
+    type: car
+  Explicit:
+    size: [2.446,0.918,0.745] #xyz
+    color: black
+    pose: [-1.0,-1.0,-1.0] #xyyaw
+    velocity: [-1.0,-1.0]
+    CoordinateFrame: map
+  Implicit:
+    isInsideof: None
+    isKeyObject: yes
+    isMovable: yes
+    purpose: cutin   # ego, occulsion, cut-in....
+
+
