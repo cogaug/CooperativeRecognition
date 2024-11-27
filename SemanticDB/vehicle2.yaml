@@ -1,0 +1,18 @@
+Vehicle: 
+  Symbol:
+    name: cocacola
+    id: 2
+    type: truck
+  Explicit:
+    size: [2.44,0.91,0.745] #xyz
+    color: orange #red orange
+    pose: [-1,-1,-1] #xyth
+    velocity: [-1,-1]
+    CoordinateFrame: map
+  Implicit:
+    isInsideof: None
+    isKeyObject: yes
+    isMovable: yes
+    purpose: occulsion   # ego, occulsion, cut-in....
+
+
