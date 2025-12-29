@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>v2x_pkg</name>
+  <name>CooperativeV2X</name>
   <version>0.0.0</version>
   <description>V2X MetaData</description>
   <maintainer email="ycanblue@gmail.com">icarus</maintainer>
