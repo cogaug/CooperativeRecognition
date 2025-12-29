@@ -1,3 +1,0 @@
-# CooperativeRecognition simulation
-cycle gan
-

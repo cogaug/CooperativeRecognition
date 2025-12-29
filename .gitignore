@@ -1,9 +1,0 @@
-*/build/*
-*/devel/*
-*/install/*
-*/log/*
-*.pyc*
-*.env.sh
-
-*.gch
-*.pch
