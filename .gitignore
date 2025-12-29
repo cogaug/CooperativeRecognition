@@ -1,6 +1,8 @@
-build
-install
-log
-*.pyc
+*/build/*
+*/devel/*
+*/install/*	
+*/log/*	
+*.pyc*	
+*.env.sh
 __pycache__/
 *.egg-info
